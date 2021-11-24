@@ -1,7 +1,7 @@
 {
   "name": "subqlHelloWorld",
   "version": "1.0.0",
-  "description": "",
+  "description": "ionos_nevzorov",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
@@ -16,7 +16,7 @@
     "schema.graphql",
     "project.yaml"
   ],
-  "author": "ilia",
+  "author": "ionos_nevzorov",
   "license": "Apache-2.0",
   "devDependencies": {
     "@polkadot/api": "^6",
